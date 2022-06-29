@@ -20,7 +20,7 @@ The following libraries were used:
 
 TensorFlow 2.0 - The core open source library to help you develop and train ML models.
 Scikit Learn - Scikit Learn or Sklearn is one of the most used Python libraries for Data Science, along with others like Numpy, Pandas, Tensorflow, or Keras.
-Install the following librarie(s) in your terminal...
+Install the following librarie(s) in your terminal.
 ```
 pip install -U scikit-learn
 pip install --upgrade tensorflow
@@ -30,3 +30,6 @@ pip install --upgrade tensorflow
 ----
 The data used in this neural network model was from derived from a CSV file called applicants_data.csv.
 
+**Instruction**
+----
+To use this application simply clone the repository and run .ipynb on your Jupyter Notebook.
