@@ -32,4 +32,4 @@ The data used in this neural network model was from derived from a CSV file call
 
 **Instruction**
 ----
-To use this application simply clone the repository and run .ipynb on your Jupyter Notebook.
+To use this application simply clone the repository and run venture_funding_with_deep_learning.ipynb on your Jupyter Notebook.
